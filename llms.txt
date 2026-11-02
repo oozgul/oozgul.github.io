@@ -37,7 +37,7 @@
 ## Projects
 
 - Emport.io (https://www.emport.io): HubSpot contact-import tool, built and launched solo
-- Vega32: real-time trading and news terminal built solo with Claude Code (~136,000 lines; Interactive Brokers and Hyperliquid). AI layer: a local model for high-volume classification and translation, Claude Haiku for overflow, AI cost tracked per task.
+- Vega32: real-time trading and news terminal built solo with Claude Code (~136,000 lines; Interactive Brokers and Hyperliquid). A local AI model classifies and translates thousands of headlines a day and flags market-moving news; charts pin each headline to the moment it landed, so price moves can be traced to news events. Claude Haiku as backup, AI cost tracked per task.
 
 ## Tools
 
