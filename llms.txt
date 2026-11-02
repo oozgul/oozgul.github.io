@@ -1,6 +1,6 @@
 # Oguz Ozgul
 
-> Revenue & Marketing Operations Consultant based in Amsterdam, Netherlands. Founder of Emport. Over 12 years of experience in B2B revenue operations, marketing automation, and GTM engineering.
+> GTM strategy and operations leader based in Amsterdam, open to relocating to New York or San Francisco. 13 years across global enterprises and high-growth B2B SaaS (Philips, Amgen, Mambu, Airbyte, HiBob). Builds the operating model behind revenue teams (pipeline, forecasting, territories, routing) and the AI tooling that runs it. Founder of Emport.
 
 ## Contact
 
@@ -9,46 +9,46 @@
 - Website: https://oguzo.com
 - Book a call: https://calendar.google.com/calendar/appointments/schedules/AcZssZ0BxyOn0IZIDZkQEjdYwY4gfg8B8_cmv1ZNw5GwTen99B_pyc9Cjl9gyOwgXArdTUZLEsC4jXfp?gv=true
 
-## Current Role
+## Focus
 
-- Founder at Emport (https://www.emport.io) — 2026 to present
+- GTM strategy and operations: weekly forecast and pipeline reviews, monthly business reviews, QBRs and annual planning
+- Pipeline and forecast reporting, territory planning and account assignment
+- Lead scoring, routing and SLAs across Marketing, SDR and Sales
+- Salesforce and HubSpot architecture, SQL and BI
+- AI automation with Claude and Claude Code
 
-## Services
+## Selected results
 
-Oguz helps B2B companies align sales, marketing, and customer success to drive revenue growth. His areas of expertise include:
+- HiBob: shared lifecycle stages and SLAs adopted by 150+ GTM staff; 18 A/B-tested Outreach sequences lifted the SDR meeting rate 20%; AI-written account briefs for every new lead
+- Airbyte: rebuilt lead scoring and routing, with 27% fewer unworked MQLs and lead-to-first-activity up 20%
+- Mambu: built a campaign operations center of excellence, with 3x campaign velocity and QA errors under 3%
 
-- Lead Management & Routing
-- Marketing Automation
-- Sales Process Optimization
-- Data & Tools Integration
-- Campaign Operations
-- Dashboard & Reporting
-- Attribution & Analytics
-- Vendor Management
+## Experience
 
-## Tools & Platforms
+- Emport: Founder (2026 to present)
+- HiBob: Revenue Operations Team Lead (2024 to 2026)
+- Airbyte: Revenue Operations Lead (2022 to 2023)
+- Mambu: Head of Marketing Operations (2021 to 2022), Marketing Automation Lead (2020)
+- ERIKS Digital: Senior Marketing Automation Manager (2019 to 2020)
+- Amgen: Marketing Technology Lead (2017 to 2018)
+- Philips: Senior Manager, Marketing Operations (2015 to 2017), Marketing Operations Specialist (2013 to 2015)
 
-HubSpot, Salesforce, Marketo, Pardot, Outreach, Salesloft, Segment, Zapier, Tableau, Power BI, Looker, Google Analytics, Google Tag Manager, Intercom, Calendly, Chili Piper
+## Projects
 
-## Work Experience
+- Emport.io (https://www.emport.io): HubSpot contact-import tool, built and launched solo
+- Vega32: personal Bloomberg-style trading terminal (React on a self-hosted server, Interactive Brokers and Hyperliquid), built with Claude Code
 
-- Emport — Founder (2026 – Present)
-- HiBob — Revenue Operations Team Lead (2024 – 2025)
-- Airbyte — Revenue Operations Lead (2022 – 2023)
-- Mambu — Head of Marketing Operations (2020 – 2022)
-- ERIKS Digital — Sr. Marketing Automation Manager (2019 – 2020)
-- Amgen — Marketing Technology Lead (2017 – 2018)
-- Philips — Senior Manager Marketing Operations (2013 – 2016)
+## Tools
+
+- GTM systems: Salesforce, HubSpot, Marketo, Pardot, Outreach, Salesloft, Clay, Chili Piper, Zapier
+- Data: SQL, Excel and Google Sheets, Tableau, Looker, Power BI, Metabase, Segment, Google Analytics
+- AI and code: Claude, Claude Code, LLM APIs, Python, JavaScript, React
 
 ## Education
 
-- Sabanci University — Bachelor's degree, Business Administration, Management and Operations
-- University of Exeter — Erasmus Exchange Program
+- Sabanci University: B.A., Management Sciences
+- University of Exeter: Erasmus exchange, Marketing and Business Management
 
 ## Location
 
-Amsterdam, North Holland, Netherlands
-
-## Availability
-
-Available for freelance Revenue Operations and Marketing Operations projects.
+Amsterdam, Netherlands. Open to relocating to New York or San Francisco.
