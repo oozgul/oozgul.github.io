@@ -1,6 +1,6 @@
 # Oguz Ozgul
 
-> GTM strategy and operations leader based in Amsterdam, open to relocating to New York. 13 years across global enterprises and high-growth B2B SaaS (Philips, Amgen, Mambu, Airbyte, HiBob). Builds the operating model behind revenue teams (pipeline, forecasting, territories, routing) and the AI tooling that runs it. Founder of Emport.
+> GTM strategy and operations leader based in Amsterdam. 13 years across global enterprises and high-growth B2B SaaS (Philips, Amgen, Mambu, Airbyte, HiBob). Builds the operating model behind revenue teams (pipeline, forecasting, territories, routing) and the AI tooling that runs it. Founder of Emport.
 
 ## Contact
 
@@ -52,4 +52,4 @@
 
 ## Location
 
-Amsterdam, Netherlands. Open to relocating to New York.
+Amsterdam, Netherlands.
